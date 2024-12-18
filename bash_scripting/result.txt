@@ -1,0 +1,4 @@
+# Nmap 7.94SVN scan initiated Fri Jul 19 04:10:28 2024 as: nmap -A -T4 -oG result.txt 192.168.1.13
+Host: 192.168.1.13 ()	Status: Up
+Host: 192.168.1.13 ()	Ports: 
+# Nmap done at Fri Jul 19 04:10:40 2024 -- 1 IP address (1 host up) scanned in 12.51 seconds
